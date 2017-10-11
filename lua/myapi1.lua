@@ -1,0 +1,1 @@
+ngx.say("hello world, in myapi1, EOF_Openresty"); 
